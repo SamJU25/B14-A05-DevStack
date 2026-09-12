@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Live Demo & Links
-- **Live Preview**: *(Add your deployed link here)*
+- **Live Preview**: https://devstack-alpha.vercel.app/
 - **GitHub Repository**: [https://github.com/SamJU25/B14-A05-DevStack](https://github.com/SamJU25/B14-A05-DevStack)
 
 ---
